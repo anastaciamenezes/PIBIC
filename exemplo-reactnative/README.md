@@ -1,0 +1,1 @@
+A partir do arquivo App.js escrever um código e visualizar as alterações diretamente no seu telefone ou tablet clicando no botão Executar ou use o simulador clicando em Tocar para reproduzir. Quando terminar, clique em Salvar e compartilhe o link!
